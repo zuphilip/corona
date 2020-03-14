@@ -9,4 +9,4 @@ install.packages("stringr")
 install.packages("lubridate")
 install.packages("tidyr")
 
-install.packages(magrittr)
+install.packages("magrittr")
