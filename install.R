@@ -1,4 +1,3 @@
-install.packages(shinyjs)
 install.packages(shinythemes)
 install.packages(rio)
 install.packages(tidyverse)
