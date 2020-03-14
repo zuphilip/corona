@@ -1,4 +1,4 @@
-install.packages(shinythemes)
+install.packages(shinydashboard)
 install.packages(rio)
 install.packages(tidyverse)
 install.packages(ggrepel)
